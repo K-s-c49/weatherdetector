@@ -10,7 +10,10 @@ A simple weather application built with **Django** that fetches real-time weathe
 
   ## 📸 Screenshot
 
-![Weather App Screenshot](/screenshot.png)
+![Weather App Screenshot](/Screenshot (1).png)
+## 📸 Screenshot
+
+![Weather App Screenshot](assets/Screenshot(1).png)
 
 
 ## 🛠️ Tech Stack
