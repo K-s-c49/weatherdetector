@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-0x@ww%o(6=l9pln+06&rjbyj%xgbxt5i)pqjcm-z11-^tse-rm
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['weatherdetector.onrender.com']  # Use your actual Render URL
+ALLOWED_HOSTS = []  # Use your actual Render URL
 
 
 # Application definition
@@ -125,3 +125,5 @@ STATIC_ROOT = os.path.join(BASE_DIR, 'staticfiles')
 # https://docs.djangoproject.com/en/5.1/ref/settings/#default-auto-field
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
+WEATHER_API_KEY = "your_openweathermap_api_key"
+
